@@ -22,5 +22,5 @@ flavor explosion
 
 ----
 
-* create a sandwich for travel
+* create a sandwich for portability
 * enjoy for dinner
